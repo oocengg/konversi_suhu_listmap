@@ -72,7 +72,10 @@ class _MyAppState extends State<MyApp> {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("Konverter Suhu"),
+          title: const Text(
+            "Muh. Fauzi Ramadhan Nugraha - 2041720022",
+            style: TextStyle(fontSize: 17),
+          ),
         ),
         body: Container(
           child: Column(
